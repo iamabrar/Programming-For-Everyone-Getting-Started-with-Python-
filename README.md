@@ -1,2 +1,3 @@
 # Programming-For-Everyone-Getting-Started-with-Python-
-The assignments of the Coursera Course is posted in this repository
+All the assignments of the Coursera Course, 'Programming For Everyone' is posted in this repository
+Course Certificate: https://www.coursera.org/account/accomplishments/records/6C58AB4V7AAU
